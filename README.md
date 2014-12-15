@@ -21,3 +21,8 @@ Learning Guides
 Useful Stuff
 ------------
 The best developer tools, now free for students https://github.com/blog/1900-the-best-developer-tools-now-free-for-students
+
+Sources
+-------
+- Setup Ruby On Rails on Ubuntu 14.10 Utopic Unicorn - https://gorails.com/setup/ubuntu/14.10
+- How To Install Ruby on Rails on Ubuntu 12.04 LTS (Precise Pangolin) with RVM - https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-on-ubuntu-12-04-lts-precise-pangolin-with-rvm
