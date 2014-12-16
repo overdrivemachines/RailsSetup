@@ -4,6 +4,20 @@ Ruby on Rails Setup for Development
 Ubuntu 14.04 LTS or 14.10
 -------------------------
 
+### Install Latest Version of Git 2.2.
+In Terminal, type the following:
+
+```
+sudo add-apt-repository ppa:git-core/ppa
+sudo apt-get update
+sudo apt-get install git
+git config --global user.name "Full Name"
+git config --global user.email "me@me.com"
+```
+
+https://github.com/yui/yui3/wiki/Set-Up-Your-Git-Environment
+https://help.github.com/articles/generating-ssh-keys/
+
 Windows 7/8/8.1
 ---------------
 
