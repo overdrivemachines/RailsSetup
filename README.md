@@ -21,6 +21,13 @@ https://help.github.com/articles/generating-ssh-keys/
 
 Windows 7/8/8.1
 ---------------
+### Step 1 - Install Git
+
+### Step 2 - Install Ruby
+
+### Step 3 - Install Rails
+
+### Step 4 - Install Other Software
 
 Learning Guides
 ---------------
