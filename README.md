@@ -31,8 +31,13 @@ Windows 7/8/8.1
 
 Learning Guides
 ---------------
+- Ruby
+  - Learn to Program, by Chris Pine - https://pine.fm/LearnToProgram/
+  - Learn Ruby the Hard Way, 3rd Edition - http://learnrubythehardway.org/book/
 - Rails 
   - XYZPub - http://www.xyzpub.com/
+  - Ruby on Rails Guides - http://edgeguides.rubyonrails.org/index.html
+  - Ruby on Rails Tutorial - Michael Hartl - https://www.railstutorial.org/book
 - Markdown
   - Markdown Basics - https://help.github.com/articles/markdown-basics/
   - Markdown Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
