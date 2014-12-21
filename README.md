@@ -59,3 +59,4 @@ Sources
 -------
 - Setup Ruby On Rails on Ubuntu 14.10 Utopic Unicorn - https://gorails.com/setup/ubuntu/14.10
 - How To Install Ruby on Rails on Ubuntu 12.04 LTS (Precise Pangolin) with RVM - https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-on-ubuntu-12-04-lts-precise-pangolin-with-rvm
+- How I TRAINed to learn Rails - Richardson Dackam - https://medium.com/how-i-learned-ruby-rails/how-i-trained-to-learn-rails-e08c94e2a51e
