@@ -32,6 +32,12 @@ Learning Guides
   - GitHub Flavored Markdown - https://help.github.com/articles/github-flavored-markdown/
 - Git
   - git - the simple guide - http://rogerdudler.github.io/git-guide/
+- HTML & CSS
+  - HTML and CSS: Design and Build Websites - by Jon Duckett - $17.39 - http://www.amazon.com/dp/1118008189
+  - Dash - https://dash.generalassemb.ly/
+  - Learn to Code HTML & CSS - http://learn.shayhowe.com/html-css/
+  - Learn CSS Layout - http://learnlayout.com/
+  - A Complete Guide to Flexbox | CSS-Tricks - http://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 Useful Stuff
 ------------
