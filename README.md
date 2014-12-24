@@ -80,8 +80,16 @@ Windows 7/8/8.1 64-bit
   ```
 
 ### Step 3 - Install Rails
+In Command Prompt, type:
+```
+gem install rails
+```
 
 ### Step 4 - Install Other Software
+- Sublime Text
+  - Download and install Sublime Text - an awesome text editor from http://www.sublimetext.com/
+  - Install Package Control. Instructions: https://sublime.wbond.net/installation
+  - Install Packages: Sublime​ERB, Gutter Color
 
 Learning Guides
 ---------------
