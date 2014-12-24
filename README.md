@@ -28,6 +28,13 @@ Windows 7/8/8.1
   - Install to `C:\Git`
   - Select 'Use Git from the Windows Command Prompt'
 
+- Configure Git
+  - In Command Prompt type:
+  ```
+  git config --global user.name "John Doe"
+  git config --global user.email johndoe@example.com
+  ```
+
 ### Step 2 - Install Ruby and DevKit
 - Download and Install Ruby from:
   http://rubyinstaller.org/downloads/
