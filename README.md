@@ -22,8 +22,28 @@ https://help.github.com/articles/generating-ssh-keys/
 Windows 7/8/8.1
 ---------------
 ### Step 1 - Install Git
+Download and Install Git from:
+  http://git-scm.com/downloads
+- Git Version 1.95 can be downloaded directly: https://github.com/msysgit/msysgit/releases/download/Git-1.9.5-preview20141217/Git-1.9.5-preview20141217.exe
+- Install to C:\Git
+- Select 'Use Git from the Windows Command Prompt'
 
-### Step 2 - Install Ruby
+### Step 2 - Install Ruby and DevKit
+Download and Install Ruby from:
+  http://rubyinstaller.org/downloads/
+- Ruby Version 2.1.5 x64 can be downloaded directly: http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.5-x64.exe?direct 
+- Install it to `C:\Ruby`
+- Select 'Add Ruby executables to your PATH' and 'Associate .rb and .rw files with this Ruby installation'
+
+Download and Install DevKit from:
+  http://rubyinstaller.org/downloads/
+- Direct Link: http://cdn.rubyinstaller.org/archives/devkits/DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe
+- Extract files to 'C:\Ruby\DevKit'
+- In Command Prompt type:
+```
+$ C:\Ruby\DevKit\dk.rb init
+$ C:\Ruby\DevKit\dk.rb install
+```
 
 ### Step 3 - Install Rails
 
