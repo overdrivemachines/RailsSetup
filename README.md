@@ -66,10 +66,17 @@ Windows 7/8/8.1 64-bit
   $ dk.rb init
   $ dk.rb install
   ```
-- Toggling off the requirement to verify the SSL security certificate
+- Toggling off the requirement to verify the SSL security certificate and 
   - Create or modify the file called .gemrc in your home path and add the line:
   `:ssl_verify_mode: 0`
-  - File in Windows 7 is C:\ProgramData\gemrc
+  - File in Windows 7 is `C:\ProgramData\gemrc`
+  
+- Update RubyGems system software and installed gems
+  In Command Prompt, type:
+  ```
+  gem update --system
+  gem update
+  ```
 
 ### Step 3 - Install Rails
 
