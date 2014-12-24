@@ -67,9 +67,10 @@ Windows 7/8/8.1 64-bit
   $ dk.rb install
   ```
 - Toggling off the requirement to verify the SSL security certificate and 
-  - Create or modify the file called .gemrc in your home path and add the line:
-  `:ssl_verify_mode: 0`
-  - File in Windows 7 is `C:\ProgramData\gemrc`
+  Create or modify the file called `gemrc` in your home path `C:\ProgramData` and add the line:
+  ```
+  :ssl_verify_mode: 0
+  ```
   
 - Update RubyGems system software and installed gems
   In Command Prompt, type:
