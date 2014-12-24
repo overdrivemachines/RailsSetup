@@ -90,6 +90,7 @@ gem install rails
   - Download and install Sublime Text - an awesome text editor from http://www.sublimetext.com/
   - Install Package Control. Instructions: https://sublime.wbond.net/installation
   - Install Packages: Sublime​ERB, Gutter Color
+  - Add Keybinding for SublimeERB https://github.com/eddorre/SublimeERB#add-keybinding
 
 -  ImageMagick
   - Download and install ImageMagick from http://www.imagemagick.org/script/binary-releases.php#windows
