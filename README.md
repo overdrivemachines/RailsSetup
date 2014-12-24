@@ -91,6 +91,10 @@ gem install rails
   - Install Package Control. Instructions: https://sublime.wbond.net/installation
   - Install Packages: Sublime​ERB, Gutter Color
 
+-  ImageMagick
+  - Download and install ImageMagick from http://www.imagemagick.org/script/binary-releases.php#windows
+
+
 Learning Guides
 ---------------
 - Ruby
