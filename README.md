@@ -19,8 +19,8 @@ https://github.com/yui/yui3/wiki/Set-Up-Your-Git-Environment
 
 https://help.github.com/articles/generating-ssh-keys/
 
-Windows 7/8/8.1
----------------
+Windows 7/8/8.1 64-bit
+----------------------
 ### Step 1 - Install Git
 - Download and Install Git from:
   http://git-scm.com/downloads
