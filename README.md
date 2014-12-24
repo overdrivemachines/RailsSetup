@@ -35,6 +35,12 @@ Windows 7/8/8.1
   git config --global user.email johndoe@example.com
   ```
 
+- Caching your GitHub password in Git
+  - Download Windows Credential Store for Git from  https://gitcredentialstore.codeplex.com/
+  - Save the file in `C:\Git`
+  - Run the downloaded file
+  - This helper is only for HTTPS connections, if you are using SSH, the helper won't run.
+
 ### Step 2 - Install Ruby and DevKit
 - Download and Install Ruby from:
   http://rubyinstaller.org/downloads/
