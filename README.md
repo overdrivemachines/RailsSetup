@@ -91,6 +91,7 @@ gem install rails
   - Install Package Control. Instructions: https://sublime.wbond.net/installation
   - Install Packages: Sublime​ERB, Gutter Color
   - Add Keybinding for SublimeERB https://github.com/eddorre/SublimeERB#add-keybinding
+  - Open Sublime Text From the Command Line Using subl.exe (Windows) http://scotch.io/tutorials/open-sublime-text-from-the-command-line-using-subl-exe-windows
 
 -  ImageMagick
   - Download and install ImageMagick from http://www.imagemagick.org/script/binary-releases.php#windows
